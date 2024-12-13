@@ -5,7 +5,7 @@ My kicad libs.
 ## Symbols:
 DW01A
 FS8205A
-TO4056
+TP4056
 ![symbols](images/symbols.png)
 
 ## Footprints:
